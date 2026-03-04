@@ -1,0 +1,50 @@
+Eye-Tracking Eye-Region Image Dataset License
+Version 1.0
+
+Copyright (c) 2026 [Shukun Li, BIT.IFE]
+
+1. Scope
+
+This dataset consists of cropped eye-region images derived from eye-tracking experiments conducted under institutional ethical approval. 
+All facial regions outside the eye area have been removed. 
+No direct identifiers (e.g., name, ID number, contact information) are included.
+
+2. Permitted Use
+
+The dataset is provided solely for non-commercial academic research and educational purposes.
+
+Users are permitted to:
+- Use the dataset for scientific research
+- Publish results derived from the dataset
+- Modify and process the dataset for research purposes
+
+3. Restrictions
+
+Users may NOT:
+- Use the dataset for commercial purposes
+- Redistribute the raw dataset to third parties
+- Attempt to re-identify any individual
+- Use the dataset for biometric identification systems
+- Use the dataset to train commercial face or iris recognition systems
+
+4. Data Sharing
+
+The dataset may not be redistributed in its original form. 
+Researchers wishing to access the dataset must obtain it directly from the original authors and agree to these license terms.
+
+5. Attribution Requirement
+
+Any publication or work using this dataset must cite:
+
+[Full citation of your paper]
+
+6. No Warranty
+
+The dataset is provided "as is", without warranty of any kind. 
+The authors and affiliated institution assume no responsibility for misuse of the data.
+
+7. Ethical Compliance
+
+Users agree to comply with all applicable laws, regulations, and institutional review requirements in their jurisdiction.
+
+By downloading or using this dataset, you agree to the terms of this license.
