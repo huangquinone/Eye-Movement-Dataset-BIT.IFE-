@@ -1,50 +1,55 @@
-Eye-Tracking Eye-Region Image Dataset License
-Version 1.0
+Eye-Tracking Processed Eye-Region Image Dataset License
+Version 1.2
 
-Copyright (c) 2026 [Shukun Li, BIT.IFE]
+Copyright (c) 2026 [Beijing Institute of Technology]
 
 1. Scope
 
-This dataset consists of cropped eye-region images derived from eye-tracking experiments conducted under institutional ethical approval. 
-All facial regions outside the eye area have been removed. 
-No direct identifiers (e.g., name, ID number, contact information) are included.
+This repository contains a limited subset of low-resolution, processed eye-region images derived from an eye-tracking study.
+
+The publicly released images:
+- Contain only cropped eye regions
+- Are downsampled to low resolution
+- Have undergone processing to remove identifiable information
+- Do not include facial regions or direct identifiers
+
+High-resolution and raw data are not included in this repository.
 
 2. Permitted Use
 
-The dataset is provided solely for non-commercial academic research and educational purposes.
+The publicly released subset may be used solely for:
 
-Users are permitted to:
-- Use the dataset for scientific research
-- Publish results derived from the dataset
-- Modify and process the dataset for research purposes
+- Non-commercial academic research
+- Method validation
+- Reproducibility verification
+- Educational purposes
 
 3. Restrictions
 
 Users may NOT:
+
 - Use the dataset for commercial purposes
-- Redistribute the raw dataset to third parties
 - Attempt to re-identify any individual
 - Use the dataset for biometric identification systems
-- Use the dataset to train commercial face or iris recognition systems
+- Use the dataset to train commercial facial or iris recognition systems
+- Redistribute the dataset in its original form without permission
+- Claim ownership of the dataset
 
-4. Data Sharing
+4. Access to Extended Data
 
-The dataset may not be redistributed in its original form. 
-Researchers wishing to access the dataset must obtain it directly from the original authors and agree to these license terms.
+Access to high-resolution or full-precision data requires direct permission from the authors and may require additional documentation and agreement to specific data usage terms.
 
-5. Attribution Requirement
+5. Attribution
 
-Any publication or work using this dataset must cite:
+Any publication or derivative work using this dataset must cite:
 
-[Full citation of your paper]
+
 
 6. No Warranty
 
-The dataset is provided "as is", without warranty of any kind. 
-The authors and affiliated institution assume no responsibility for misuse of the data.
+The dataset is provided "as is", without warranty of any kind.
+The authors and affiliated institution assume no responsibility for misuse.
 
-7. Ethical Compliance
-
-Users agree to comply with all applicable laws, regulations, and institutional review requirements in their jurisdiction.
+7. Acceptance
 
 By downloading or using this dataset, you agree to the terms of this license.
